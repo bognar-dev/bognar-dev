@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently at Falmouth University<br>🌱 I’m currently learning beautiful UI Design<br>
+🔭 I’m currently at Falmouth University<br>🌱 I’m currently learning beautiful UI Design<br>### 🏄‍♂️
 
 
 ## 🌐 Socials:
