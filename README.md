@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently at Falmouth University<br>🌱 I’m currently learning beautiful UI Design<br>
-### 🏄‍♂️
-
-
-
+### 🏄‍♂️ Surfing the web and the waves of cornwall
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@niki_bgnar)
