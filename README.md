@@ -4,6 +4,7 @@
 
 
 🔭 I’m currently at Falmouth University<br>🌱 I’m currently learning beautiful UI Design<br>
+
 ### 🏄‍♂️ Surfing the web and the waves of cornwall
 
 ## 🌐 Socials:
@@ -19,5 +20,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bognar-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
 
 ---
