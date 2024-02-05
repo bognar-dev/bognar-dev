@@ -2,7 +2,6 @@
 
 
 
-
 🔭 I’m currently at Falmouth University<br>🌱 I’m currently learning beautiful UI Design<br>
 
 ### 🏄‍♂️ Surfing the web and the waves of cornwall
