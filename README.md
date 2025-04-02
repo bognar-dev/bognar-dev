@@ -81,5 +81,3 @@ Beyond coding, I follow programming news and economic trends, and enjoy running,
 *   **Website:** [bognar.co.uk](https://bognar.co.uk)
 *   **Email:** [niklas.bognar@gmail.com](mailto:niklas.bognar@gmail.com)
 
-
-
