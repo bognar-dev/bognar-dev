@@ -71,7 +71,7 @@ Beyond coding, I follow programming news and economic trends, and enjoy running,
 
 ---
 
-![Metrics](https://metrics.lecoq.io/bognar-dev?template=classic&pagespeed=1&activity=1&lines=1&calendar=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&calendar=false&calendar.limit=1&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&pagespeed=false&pagespeed.url=https%3A%2F%2Fwww.bognar.co.uk%2F&pagespeed.detailed=true&pagespeed.screenshot=true&pagespeed.pwa=false&leetcode=false&leetcode.user=nibog001&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Europe%2FLondon&config.display=columns)
+![Metrics](/github-metrics.svg)
 
 ---
 
