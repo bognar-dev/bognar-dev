@@ -28,8 +28,11 @@ jobs:
           user: bognar-dev
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: columns
+          config_display: large
+          config_octicon: yes
+          config_padding: 0,9 + 20%
           config_timezone: Europe/London
+          config_twemoji: yes
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -47,7 +50,3 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://www.bognar.co.uk/
