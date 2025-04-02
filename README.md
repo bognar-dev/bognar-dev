@@ -82,3 +82,4 @@ Beyond coding, I follow programming news and economic trends, and enjoy running,
 *   **Email:** [niklas.bognar@gmail.com](mailto:niklas.bognar@gmail.com)
 
 
+
